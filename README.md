@@ -13,7 +13,7 @@ A simple social media app built by native android development methodologies
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/OF5iKuW)
+![App Screenshot](https://github.com/m3rcury02/Socio/blob/4c9eaaac3209b450d03b924fafd5780f9ce528b6/Screenshot_20230808_002219.png)
 
 
 
